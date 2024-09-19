@@ -1,0 +1,5 @@
+# file importing the required dependencies
+
+streamlit==1.38.0
+pandas==2.2.2
+numpy==2.1.1
